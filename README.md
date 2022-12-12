@@ -1,6 +1,6 @@
 #Module 1 Challenge - Stripe Case Study#
 
-![]
+![Stripe logo](https://user-images.githubusercontent.com/119761709/207168232-118852e9-08c0-4a31-acbd-45a2a72da64f.jpeg)
 
 ## Overview and Origin##
 
